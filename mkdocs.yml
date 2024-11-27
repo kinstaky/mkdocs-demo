@@ -2,3 +2,6 @@ site_name: My Docs
 site_url: https://kinstaky.github.io/mkdocs-demo
 theme:
   name: material
+extra:
+  version:
+    provider: mike
